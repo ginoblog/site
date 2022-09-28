@@ -1,3 +1,10 @@
+- name: Commerce
+  description: Commercial theme for hexo. Shops and Lists can use this theme.
+  link: https://github.com/
+  
+
+
+
 - name: Text
   description: Text is because they are all text, but the DIY space is very large
   link: https://github.com/sdqOS/hexo-theme-Text
